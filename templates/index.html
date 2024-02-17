@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Voice Recorder</title>
+    <style>
+        body {
+            background-image: url('/static/background.jpg');
+            background-size: cover;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        #recordButton {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <button id="recordButton">Record Voice</button>
+
+    <script>
+        document.getElementById('recordButton').onclick = function() {
+            fetch('/process_voice', { method: 'POST' })
+                .then(response => response.json())
+                .then(data => console.log(data.response));
+        };
+    </script>
+</body>
+</html>
