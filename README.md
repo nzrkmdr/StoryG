@@ -58,13 +58,11 @@ Include details on how to utilize the application, highlighting any UI/UX elemen
 ```
 
 ### Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated. Please refer to our CONTRIBUTING.md for guidelines on how to proceed.
-
-### Tests
-Describe how to run the automated tests for this system.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated. 
+We are currently considering options to recreate StoryG using an open source model stack and invite the community to contribute and support us in this cause.
 
 ### Deployment
-Additional notes about deploying the application in a live environment.
+This application is not deployable in a production environment yet. It is accessible in the OpenAI GPT Store for use and testing as needed.
 
 ### Built With
 - **Python** - Primary programming language
