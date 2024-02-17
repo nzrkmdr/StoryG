@@ -4,7 +4,15 @@ Customized GPT for Educational and Relatable Content for Children
 ## Overview
 StoryG is a groundbreaking AI-driven platform designed to generate personalized educational and entertainment content for children. This application, leveraging the power of generative AI, specifically GPT models, enables parents and educators to create customized stories and learning materials. StoryG tailors its output to the individual needs and preferences of each child, taking into account factors such as age, interests, and specific educational goals.
 
+## Hackathon product
 Visit the StoryG GPT page to test and demo the tool: https://chat.openai.com/g/g-ZQcpJzoRV-storyg
+
+## Hackathon video demo
+[![StoryG GPT Project Video](http://img.youtube.com/vi/NQgcWb3Aohk/0.jpg)](http://www.youtube.com/watch?v=NQgcWb3Aohk "StoryG GPT Project Video")
+
+
+
+
 
 ### Key Features
 - **Personalized Story Generation**: Customizes stories based on a child's age, gender, and personal preferences.
