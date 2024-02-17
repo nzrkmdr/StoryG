@@ -10,7 +10,8 @@ Visit the StoryG GPT page to test and demo the tool: https://chat.openai.com/g/g
 ## Hackathon video demo
 [![StoryG GPT Project Video](http://img.youtube.com/vi/NQgcWb3Aohk/0.jpg)](http://www.youtube.com/watch?v=NQgcWb3Aohk "StoryG GPT Project Video")
 
-
+## Hackathon presentation
+https://drive.google.com/file/d/1tDAA43obncOxwfEp638zOKzBEnNLcKmB/view?usp=sharing
 
 
 
